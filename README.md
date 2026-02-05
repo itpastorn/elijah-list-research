@@ -43,6 +43,10 @@ The project has three main objectives:
 
 Pages that no longer exist are logged as *missing*.
 
+Re-use: Do the same for the so-called prophecies by Kim Clement
+They are published using the same format:
+https://www.houseofdestiny.org/prophecy/word/?trid=ID
+
 ---
 
 ## Technical Overview
